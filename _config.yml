@@ -1,15 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Why fruits are awesome
+author: KingB
+email: olowubusolaolutayo1992@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Fruits make you live a long healthy life. Fruits help you shed off body fat. Fruits help you have a clear skin. Fruits help you grow longer and stronger nails. Fruits help fight off sickness and diseases. Fruits helps in cleansing your body system
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @kingB
+github_username:  OlowuB
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-architect
+theme: minima
